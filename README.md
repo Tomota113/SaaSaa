@@ -1,2 +1,2 @@
 # SaaSaa
-This is a simple script that will translate written text into any chosen language,
+This is a simple application that will translate written text into any chosen language.
