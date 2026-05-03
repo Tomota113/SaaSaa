@@ -1,6 +1,2 @@
-def main():
-    print("Welcome to the SaaSaa Python Project with Banana Flavor!")
-    # Banana will add code below
-
-if __name__ == "__main__":
-    main()
+def convert_lbs_to_kg(pounds):
+    return pounds * 0,453592
